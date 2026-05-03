@@ -1,7 +1,7 @@
 # 🏥 WecareHomeopaths — Clinic Website
 
 > Production website built for a Toronto-based homeopathic clinic.
-> Currently live and actively used by the clinic.
+> Currently live and actively used by the clinic anf patients.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
