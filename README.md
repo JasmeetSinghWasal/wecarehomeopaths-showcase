@@ -1,8 +1,8 @@
 # 🏥 WecareHomeopaths — Clinic Website
 
-> This repository serves as a public showcase for a private codebase. The actual implementation is maintained in a private repo.
-> Production website built for a Toronto-based homeopathic clinic.
-> Currently live and actively used by the clinic anf patients.
+- This repository serves as a public showcase for a private codebase. The actual implementation is maintained in a private repo.
+- Production website built for a Toronto-based homeopathic clinic.
+- Currently live and actively used by the clinic and patients.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
