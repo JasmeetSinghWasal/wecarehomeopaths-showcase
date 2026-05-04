@@ -1,5 +1,6 @@
 # 🏥 WecareHomeopaths — Clinic Website
 
+> This repository serves as a public showcase for a private codebase. The actual implementation is maintained in a private repo.
 > Production website built for a Toronto-based homeopathic clinic.
 > Currently live and actively used by the clinic anf patients.
 
